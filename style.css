@@ -7,7 +7,7 @@ body{
 @media screen and (max-width: 768px) {
 
     body {
-    background-image: url('/fundo.webp');
+    background-image: url('/images/fundo.webp');
     background-size: cover;
     background-position: center;
 }
